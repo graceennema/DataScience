@@ -1,0 +1,1 @@
+(93/100) T1Q1: (-2) P-value and power are not calculated correctly! (-2) T1Q3: (-1) But the power is increased which is not saying anything directly about whether null is to be rejected. (-1) T1Q4: some parts of the function in Q4 are not necessary! You can use functions from previous question T3Q4: (-5) There are two major issues with this claim. Check the solutions
