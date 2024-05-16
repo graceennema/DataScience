@@ -1,0 +1,1 @@
+(97/100) T1Q1 (-2): r2 is not equal to 1-(loss/tss). It's equal to 1 - (RSS/tss), no matter what the loss function is. for SAD you should be calculating the rss first. Check the solutions. T1Q2 (-1): The R2 for the RSS should be higher, because by definition it is minimizing the rss and hence leads to higher R2, although it is not robust to outliers Well done Grace
