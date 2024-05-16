@@ -1,4 +1,4 @@
-(83/100)
+(83/100) - 2 hours to complete
 Task1
 Q1.1: 5/5
 Q1.2: 7/7
